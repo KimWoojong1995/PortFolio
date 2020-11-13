@@ -55,7 +55,7 @@ export const experience = {
 	title: "Experience",
 	lists: [
 		{ 
-			date: "2014.10~2020.03",
+			date: "2020.09~2020.10",
 			company: "Eat, Go!",
 			role: "여행 관련 스타트업 / Front-End 인턴",
 		},
