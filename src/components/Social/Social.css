@@ -14,27 +14,27 @@
 .github i {
     background-color: #24292e;
 }
-.linkedin i {
+/* .linkedin i {
     background-color: #0073b1;
-}
+} */
 .email i {
     background-color: #ea4335;
 }
 .facebook i {
     background-color: #4867aa;
 }
-.twitter i {
+/* .twitter i {
     background-color: #2aa9e0;
-}
+} */
 .instagram i {
     background-color: #a056a1;
 }
-.medium i {
+/* .medium i {
     background-color: #000000;
-}
-.stackoverflow i {
+} */
+/* .stackoverflow i {
     background-color: #f48024;
-}
+} */
 .icon-button > i:hover {
     background-color: #000000;
 }

@@ -14,9 +14,9 @@ function Skill() {
                     <div className="skill-title">
                         <p>{skills.title}</p>
                     </div>
-                    <div className="skill-subtitle">
+                    {/* <div className="skill-subtitle">
                         <p>{skills.subTitle}</p>
-                    </div>
+                    </div> */}
                     <div className="skill-cards">
                         {skills.lists.map((list, i) => (
                             <SkillCard skill={list} key={i} />

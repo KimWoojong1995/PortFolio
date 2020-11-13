@@ -7,7 +7,7 @@
     border-radius: 16px;
     box-shadow: 13px 13px 6px rgba(0, 0, 0, 0.2);
     background-color: #212223;
-    height: 140px;
+    height: 90px;
     transition: 0.3s ease-out;
 }
 .skill-card-main:hover {
@@ -20,7 +20,7 @@
     margin-top: 15px;
     font-size: 22px;
 }
-.skill-card-main .skill-progress-bar {
+/* .skill-card-main .skill-progress-bar {
     border: 2px solid #c1c2c3;
     height: 16px;
     border-radius: 8px;
@@ -34,7 +34,7 @@
 }
 .skill-card-main .skill-progress-bar p {
     margin: 10px 0;
-}
+} */
 
 @media screen and (max-width: 1380px) {
     .skill-card-main .skill-icon {
