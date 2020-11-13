@@ -1,9 +1,11 @@
 import emoji from 'react-easy-emoji';
 
+const me = "스스로 학습하며 업무에서 실력을 발휘하는 개발자"
+
 export const greeting = {
 	username: 'portfolio',
 	title: '신입 프론트엔드 개발자 김우종입니다.',
-	subTitle: "스스로 학습하며 업무에서 실력을 발휘하는 개발자",
+	subTitle: me,
 	role: "'생각을 코드로, 상상을 현실로'",
 	// resumeLink: "Your resume link... google drive or something else",
 	// IMPORTANT
