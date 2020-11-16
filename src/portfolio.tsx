@@ -1,11 +1,9 @@
 import emoji from 'react-easy-emoji';
 
-const me = "스스로 학습하며 업무에서 실력을 발휘하는 개발자"
-
 export const greeting = {
-	username: 'portfolio',
+	username: 'Woojong',
 	title: 'Front-End 개발자 김우종입니다.',
-	subTitle: me,
+	subTitle: "스스로 학습하며 업무에서 실력을 발휘하는 개발자",
 	role: "'생각을 코드로, 상상을 현실로'",
 	// resumeLink: "Your resume link... google drive or something else",
 	// IMPORTANT
@@ -17,11 +15,11 @@ export const socialMediaLinks = {
 	// IMPORTANT
 	// if you don't have, change value to blank or false!! DO NOT DELETE!
 	github: 'https://github.com/KimWoojong1995',
-	// linkedin: 'Your linkedin link',
+	tstory: 'https://woojong-develop.tistory.com/',
 	email: 'woojong1995@gmail.com',
-	facebook: 'https://www.facebook.com/profile.php?id=100003901670157',
+	// facebook: 'https://www.facebook.com/profile.php?id=100003901670157',
 	// twitter: "Your twitter link",
-	instagram: "https://www.instagram.com/woo_j2",
+	// instagram: "https://www.instagram.com/woo_j2",
 	// medium: 'Your medium link',
 	// stackoverflow: 'Your stackoverflow link'
 };
@@ -56,18 +54,18 @@ export const experience = {
 	lists: [
 		{ 
 			date: "2020.09~2020.10",
-			company: "eat around / 지붕 뚫은 친구들",
-			role: "여행 관련 스타트업 / Front-End 인턴",
+			company: "eat around/지붕 뚫은 친구들",
+			role: "여행 스타트업/Front-End 인턴",
 		},
 		{
 			date: "2020.06~2020.10",
 			company: "구공팩토리 4기",
-			role: "코딩 부트캠프 / Front-End",
+			role: "코딩 부트캠프/Front-End",
 		},
 		{ 
 			date: "2014.10~2020.03",
 			company: "나노다이아몬드",
-			role: "Diamond 개발 회사 / 주임",
+			role: "Diamond 개발 회사/주임",
 		},
 	],
 	view: true

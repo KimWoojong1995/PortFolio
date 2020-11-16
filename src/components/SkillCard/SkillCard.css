@@ -7,7 +7,7 @@
     border-radius: 16px;
     box-shadow: 13px 13px 6px rgba(0, 0, 0, 0.2);
     background-color: #212223;
-    height: 90px;
+    height: auto;
     transition: 0.3s ease-out;
 }
 .skill-card-main:hover {

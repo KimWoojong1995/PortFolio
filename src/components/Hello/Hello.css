@@ -85,7 +85,7 @@
 		min-width: 480px;
 	}
 	.section--hello .text-title {
-		font-size: 55px;
+		font-size: 53px;
 	}
 	.section--hello .role {
 		font-size: 25px;
@@ -115,10 +115,16 @@
 		min-width: auto;
 	}
 	.section--hello .text-title {
-		font-size: 36px;
+		/* font-size: 30px; */
+		font-size: 1.8rem;
 	}
 	.section--hello .role {
+		/* font-size: 25px; */
+		font-size: 1.5rem;
 		margin-top: 30px;
+	}
+	.section--hello .text-subtitle{
+		font-size: 17px;
 	}
 	.section--hello .social-links {
 		width: fit-content;
