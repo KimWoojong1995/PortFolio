@@ -4,7 +4,7 @@ const me = "스스로 학습하며 업무에서 실력을 발휘하는 개발자
 
 export const greeting = {
 	username: 'portfolio',
-	title: '프론트엔드 개발자 김우종입니다.',
+	title: 'Front-End 개발자 김우종입니다.',
 	subTitle: me,
 	role: "'생각을 코드로, 상상을 현실로'",
 	// resumeLink: "Your resume link... google drive or something else",
@@ -56,7 +56,7 @@ export const experience = {
 	lists: [
 		{ 
 			date: "2020.09~2020.10",
-			company: "Eat, Go!",
+			company: "eat around / 지붕 뚫은 친구들",
 			role: "여행 관련 스타트업 / Front-End 인턴",
 		},
 		{
