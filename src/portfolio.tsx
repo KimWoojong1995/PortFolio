@@ -54,18 +54,18 @@ export const experience = {
 	lists: [
 		{ 
 			date: "2020.09~2020.10",
-			company: "eat around/지붕 뚫은 친구들",
-			role: "여행 스타트업/Front-End 인턴",
+			company: "eat around / 지붕 뚫은 친구들",
+			role: "여행 스타트업 / Front-End",
 		},
 		{
 			date: "2020.06~2020.10",
 			company: "구공팩토리 4기",
-			role: "코딩 부트캠프/Front-End",
+			role: "코딩 부트캠프 / Front-End",
 		},
 		{ 
 			date: "2014.10~2020.03",
 			company: "나노다이아몬드",
-			role: "Diamond 개발 회사/주임",
+			role: "Diamond 개발 회사 / 주임",
 		},
 	],
 	view: true
