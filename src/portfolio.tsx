@@ -82,7 +82,7 @@ export const projects = {
 	lists: [
 		{
 			title: "Project1",
-			desc: "very very very very very very very very very very very very very very long very long description for clamp testing",
+			desc: "very very very very very very very very very very very very very long very long description for clamp testing",
 			url: "#"
 		},
 		{
