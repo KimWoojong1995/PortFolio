@@ -5,7 +5,7 @@ function ProjectCard({ project }: Props) {
     const Fade = require('react-reveal/Fade');
     return (
         <Fade duration={800} bottom>
-        <a className="project-card-main" href={project.url}>
+        <a className="project-card-main" href={project.url} target="_blank">
             <div className="card-title">
                 <p>{project.title}</p>
             </div>

@@ -26,7 +26,7 @@ function Hello() {
 					</div>
 					<div className="wrapper-links">
 						<a href="#contact" id="about">Contact &gt;</a>
-						{/* <a href={greeting.resumeLink} id="resume" target="_blank" rel="noopener noreferrer">View Resume &gt;</a> */}
+						<a href={greeting.resumeLink} id="resume" target="_blank" rel="noopener noreferrer">View Resume &gt;</a>
 					</div>
 				</div>
 

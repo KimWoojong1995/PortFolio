@@ -5,7 +5,7 @@ export const greeting = {
 	title: 'Front-End 개발자 김우종입니다.',
 	subTitle: "스스로 학습하며 업무에서 실력을 발휘하는 개발자",
 	role: "'생각을 코드로, 상상을 현실로'",
-	// resumeLink: "Your resume link... google drive or something else",
+	resumeLink: "https://github.com/KimWoojong1995/Resume",
 	// IMPORTANT
 	// If you don't want to show this, change view to false. DO NOT DELETE!
 	view: true
