@@ -81,9 +81,9 @@ export const projects = {
 	subTitle: "",
 	lists: [
 		{
-			title: "Project1",
-			desc: "very very very very very very very very very very very very very long very long description for clamp testing",
-			url: "#"
+			title: "주차장 정산 시스템",
+			desc: "Node.js와 MySQL, Session과 Cookie를 사용하여 만든 주차장 정산 시스템입니다.",
+			url: "https://github.com/KimWoojong1995/ParkingSystem"
 		},
 		{
 			title: "Project2",
