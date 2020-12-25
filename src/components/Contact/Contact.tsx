@@ -19,7 +19,7 @@ function Contact() {
                 </div>
                 <div className="wrapper-inner">
                     <div className="contact-subtitle">
-                        <p>{contactInfo.subTitle}</p>
+                        {/* <p>{contactInfo.subTitle}</p> */}
                     </div>
                     <div className="contact-introduce">
                         <p>{contactInfo.introduce}</p>

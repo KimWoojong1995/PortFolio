@@ -134,7 +134,7 @@ export const blogs = {
 
 export const contactInfo = {
 	title: "Contact To Me!",
-	subTitle: "📞 010-5551-5479",
+	// subTitle: "📞 010-5551-5479",
 	introduce: emoji(""),
 	view: true
 }
